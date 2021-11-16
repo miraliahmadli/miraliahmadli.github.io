@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Geometry and AI Lab, KAIST (2021/06 ~ Now)
+  * Working on solving Motion Capture data
+* [Seoul Robotics](https://www.seoulrobotics.org/) (2020/06 ~ 2020/08)
+  * Worked on 3D object classification and detection problems
+  * Developed lightweight object classification model for edge devices.[Pytorch, Python, C++, Docker, Linux, LiDAR]
+  * Replicated state-of-the-art LiDAR based 3D object detection model. [Pytorch, C++, 3D CNN, Docker]
+* [Lablup](https://www.lablup.ai/) (2019/12 ~ 2020/02)
+  * Developed unified CLI package for company software. [Python ]
+  * Designed and implemented internal networking service to allow containers to be accessible outside the cluster. [Python, Docker, MySQL, GraphQL]
   
 Skills
 ======
@@ -36,7 +36,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,7 +52,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
