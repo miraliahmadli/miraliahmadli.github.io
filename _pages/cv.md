@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+[To see the full CV](/files/cv.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. in Computer Science and Mathematics, KAIST, South Korea, Aug 2022 (Expected)
 
 Work experience
 ======
@@ -29,12 +29,27 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming:
+  * Python
+    * PyTorch, Tensorflow, NumPy, and etc.
+  * C/C++
+
+* Tools/Software
+  * Docker
+  * Linux
+
+* Languages:
+  * Azerbaijani (native)
+  * English (TOEFL 105)
+  * Turkish (bilingual)
+  * Korean (lower intermediate)
+* Interest and Hobbies
+  * Football, Gaming, and Music
+
+
+Projects
+======
+For more info, go to [Portfolio](/portfolio) or [my GitHub](github.com/miraliahmadli)
 
 <!-- Publications
 ======
@@ -54,6 +69,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+Extra
 ======
-* Currently signed in to 43 different slack teams
+* Coach of Azerbaijan math olympiad team, 2017/12 ~ Now
+  * Conducted training camps, prepared handouts, and taught Number Theory and Combinatorics to math olympiad team of Azerbaijan. Prepared and graded exams for TSTs.
+  * I was team leader of the Azerbaijan team in [JBMO 2021](http://jbmo2021.ance.gov.md/index.html)
