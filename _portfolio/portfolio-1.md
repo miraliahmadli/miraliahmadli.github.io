@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "YoloV2 Inference Engine"
+excerpt: "Tensorflow-like inference engine for YoloV2 model"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* Implemented Tensorflow-like inference engine and utilized instruction and gpu level computing and parallelism to significantly improve the performance. 
+* Performed quantization techniques for faster inference. 
+* Ranked top 5 out of 20 teams
+* Tech stack: Tensorflow, Numpy, C, pthreads, AVX, CUDA, OpenBLAS, cuBLAS]
+* For more information, check out [GitHub repo](https://github.com/miraliahmadli/YoloV2_inference_engine)

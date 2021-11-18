@@ -4,5 +4,6 @@ excerpt: "ACO algorithm for TSP with novel shortest path estimation algortihm an
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-[Github repo](https://github.com/miraliahmadli/TSP)
+* Developed novel approach for ACO for TSP based on estimated shortest tour annealing which resulted in faster convergence. [Python ]
+* Awarded as the best project in \textbf{unique approaches for TSP} category and presented it in TSP workshop
+* For more details, check out [Github repo](https://github.com/miraliahmadli/TSP)
