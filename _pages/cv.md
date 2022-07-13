@@ -13,17 +13,20 @@ redirect_from:
 
 Education
 ======
-* BSc. in Computer Science and Mathematics, KAIST, South Korea, Aug 2022 (Expected)
+* MSc. in Computer Science, EPFL, Switzerland, Sept 2022 - July 2024 (Expected)
+* BSc. in Computer Science and Mathematics, KAIST, South Korea, Aug 2017 - Aug 2022
 
 Work experience
 ======
-* Geometry and AI Lab, KAIST (2021/06 ~ Now)
-  * Working on solving Motion Capture data
-* [Seoul Robotics](https://www.seoulrobotics.org/) (2020/06 ~ 2020/08)
+* Software Engineer Intern at [Presto Labs](https://www.prestolabs.io/) (2021/12 ~ 2022/02)
+  * High Frequency Trading Engineer
+* Research Intern at [Geometry and AI Lab](https://mhsung.github.io/), KAIST (2021/06 ~ 2021/12)
+  * Solving Motion Capture data, Replicating previous works, and developing new approaches
+* Research Engineer Intern at [Seoul Robotics](https://www.seoulrobotics.org/) (2020/06 ~ 2020/08)
   * Worked on 3D object classification and detection problems
   * Developed lightweight object classification model for edge devices.[Pytorch, Python, C++, Docker, Linux, LiDAR]
   * Replicated state-of-the-art LiDAR based 3D object detection model. [Pytorch, C++, 3D CNN, Docker]
-* [Lablup](https://www.lablup.ai/) (2019/12 ~ 2020/02)
+* Software Engineer Intern at [Lablup](https://www.lablup.ai/) (2019/12 ~ 2020/02)
   * Developed unified CLI package for company software. [Python ]
   * Designed and implemented internal networking service to allow containers to be accessible outside the cluster. [Python, Docker, MySQL, GraphQL]
   
@@ -43,14 +46,14 @@ Skills
   * Azerbaijani (native)
   * English (TOEFL 105)
   * Turkish (bilingual)
-  * Korean (lower intermediate)
+  * Korean (TOPIK 2)
 * Interest and Hobbies
   * Football, Gaming, and Music
 
 
 Projects
 ======
-For more info, go to [Portfolio](/portfolio) or [my GitHub](github.com/miraliahmadli)
+For more info, go to [Portfolio](/portfolio) or [my GitHub](https://github.com/miraliahmadli/)
 
 <!-- Publications
 ======

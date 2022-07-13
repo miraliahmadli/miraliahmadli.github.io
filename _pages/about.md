@@ -11,9 +11,11 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-I am pursuing a Bachelor's degree at the KAIST, South Korea. 
+I am incoming Master student in Computer Science at EPFL, Switzerland. 
 
-During high school, I participated in several national and international mathematical olympiads. I am Bronze medal winner at [IMO, 2017](https://www.imo-official.org/participant_r.aspx?id=26093). After 16 years living in Azerbaijan, I moved to South Korea to pursue my studies in Computer Science and Mathematics.
+During high school, I participated in several national and international mathematical olympiads. I am Bronze medal winner at [IMO, 2017](https://www.imo-official.org/participant_r.aspx?id=26093). 
+
+After 16 years living in Azerbaijan, I moved to South Korea to further my studies. I obtained a Bachelor's degree in Computer Science and Mathematics at the KAIST, South Korea.
 
 Interests
 =========
@@ -21,5 +23,5 @@ I am interested in the fields of __3D Computer Vision and Computer Graphics__, b
 
 News
 ====
-+ I am activaley looking for the MS/PhD student position
++ I am activaley looking for the Researh / Engineering Internships for Winter 2022 and Summer 2023 related ML / AI / Computer Vision.
 
