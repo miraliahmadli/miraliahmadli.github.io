@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-I am incoming Master student in Computer Science at EPFL, Switzerland. 
+I am 1st year Master student in Computer Science at EPFL, Switzerland. 
 
 During high school, I participated in several national and international mathematical olympiads. I am Bronze medal winner at [IMO, 2017](https://www.imo-official.org/participant_r.aspx?id=26093). 
 
@@ -21,7 +21,7 @@ Interests
 =========
 I am interested in the fields of __3D Computer Vision and Computer Graphics__, because I believe we need better interpretation and understanding of both the real and visual world. Especially, I would like to work on and further explore __vision, robotics, autonomous driving, and graphics__ areas.
 
-News
+<!-- News
 ====
-+ I am activaley looking for the Researh / Engineering Internships for Winter 2022 and Summer 2023 related ML / AI / Computer Vision.
++ I am activaley looking for the Researh / Engineering Internships for Winter 2022 and Summer 2023 related ML / AI / Computer Vision. -->
 

@@ -39,6 +39,7 @@ Skills
     * pthreads, AVX, OpenBLAS, cuBLAS, and etc.
 
 * Tools/Software
+  * Git
   * Docker
   * Linux
 
@@ -48,7 +49,7 @@ Skills
   * Turkish (bilingual)
   * Korean (TOPIK 2)
 * Interest and Hobbies
-  * Football, Gaming, and Music
+  * Competitive Programming, Football, Gym, Music, and etc.
 
 
 Projects
@@ -75,6 +76,6 @@ Teaching
   
 Extra
 ======
-* Coach of Azerbaijan math olympiad team, 2017/12 ~ Now
+* Coach of Azerbaijan math olympiad team, 2017/12 ~ 2020/12
   * Conducted training camps, prepared handouts, and taught Number Theory and Combinatorics to math olympiad team of Azerbaijan. Prepared and graded exams for TSTs.
   * I was team leader of the Azerbaijan team in [JBMO 2020](http://www.hms.gr/24jbmo2020/index.html)
